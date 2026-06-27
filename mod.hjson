@@ -1,0 +1,7 @@
+name: "BsweedyMusicPack"
+displayName: "бисвиди песенки"
+author: "@ggvpaaall"
+description: "маленький сборник песен бисвиди"
+version: "1.0"
+minGameVersion: "146"
+hidden: false
