@@ -1,7 +1,13 @@
 name: "BsweedyMusicPack"
 displayName: "бисвиди песенки"
-author: "тг:@ggvpaaall"
-description: "сборник песен бисвиди"
-version: "1.0"
+author: "тг: @ggvpaaall"
+description: "Сборник песен бисвиди
+
+Что в обновлении:
+
+ По просьбе пользователя мода: добавлены новые песни для меню, выбора сектора, посадки и редактора.
+
+Песни теперь выбираются случайно при перезаходе в меню/выбор сектора."
+version: "2.0"
 minGameVersion: "146"
 hidden: false
